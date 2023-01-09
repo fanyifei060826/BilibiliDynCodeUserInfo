@@ -7,7 +7,7 @@ request:`pip install requests`
 json(if needed):`pip install json`
 ***
 ## Get the code
-###### example: `https://t.bilibili.com/747286634259546167?`spm_id_from=333.999.0.0
+###### example: `https://t.bilibili.com/747286634259546167?spm_id_from=333.999.0.0`
 ###### The code here is: `747286634259546167`
 ***
 ## API Reference
